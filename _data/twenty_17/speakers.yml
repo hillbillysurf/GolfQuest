@@ -1,18 +1,39 @@
 - title: Erik
-  name: Name-1
+  name: Erik
   img: erik.jpg
   thumbnail: erik.jpg
 
 - title: Garret
-  name: Name-2
+  name: Garret
   img: garret.jpg
   thumbnail: garret.jpg
 
-- title: Name
-  name: Name-3
-  subtitle: Position
-  img: TBD.jpg
-  thumbnail: TBD.jpg
-  alt: Picture of TBD
-  topic: Topic
-  description: More Info
+- title: Johnny
+  name: Johnny
+  img: johnny.jpg
+  thumbnail: johnny.jpg
+
+- title: Keith
+  name: Keith
+  img: keith.jpg
+  thumbnail: keith.jpg
+
+- title: Andrew
+  name: Andrew
+  img: andrew.jpg
+  thumbnail: andrew.jpg
+
+- title: Sutter
+  name: Sutter
+  img: sutter.jpg
+  thumbnail: sutter.jpg
+
+- title: Josh
+  name: Josh
+  img: josh.jpg
+  thumbnail: josh.jpg
+
+- title: Frimming
+  name: Frimming
+  img: frimming.jpg
+  thumbnail: frimming.jpg

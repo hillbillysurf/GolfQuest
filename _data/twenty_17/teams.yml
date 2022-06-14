@@ -1,26 +1,39 @@
-- title: Name
-  name: Name-1
-  subtitle: Position
-  img: TBD.jpg
-  thumbnail: TBD.jpg
-  alt: Picture of TBD
-  topic: Topic
-  description: More Info
+- title: Erik
+  name: Erik
+  img: erik.jpg
+  thumbnail: erik.jpg
 
-- title: Name
-  name: Name-2
-  subtitle: Position
-  img: TBD.jpg
-  thumbnail: TBD.jpg
-  alt: Picture of TBD
-  topic: Topic
-  description: More Info
+- title: Garret
+  name: Garret
+  img: garret.jpg
+  thumbnail: garret.jpg
 
-- title: Name
-  name: Name-3
-  subtitle: Position
-  img: TBD.jpg
-  thumbnail: TBD.jpg
-  alt: Picture of TBD
-  topic: Topic
-  description: More Info
+- title: Garret
+  name: Garret
+  img: garret.jpg
+  thumbnail: garret.jpg
+
+- title: Garret
+  name: Garret
+  img: garret.jpg
+  thumbnail: garret.jpg
+
+- title: Garret
+  name: Garret
+  img: garret.jpg
+  thumbnail: garret.jpg
+
+- title: Garret
+  name: Garret
+  img: garret.jpg
+  thumbnail: garret.jpg
+
+- title: Garret
+  name: Garret
+  img: garret.jpg
+  thumbnail: garret.jpg
+
+- title: Garret
+  name: Garret
+  img: garret.jpg
+  thumbnail: garret.jpg
