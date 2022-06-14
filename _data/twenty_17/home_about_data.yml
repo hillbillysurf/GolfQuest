@@ -2,7 +2,7 @@
   img: icon-about.jpeg
   name: Our Quest
   info: A 27 hole Journey
-  link: /agenda
+  link: /about
 
 - inverted: timeline-inverted
   img: icon-agenda.jpeg
@@ -21,15 +21,3 @@
   name: Venue
   info: Learn more about our location
   link: https://www.boonecountygolf.com/boone-links/golf/course-tour
-
-- inverted: 
-  img: icon-faq.jpeg
-  name: FAQs
-  info: Have a Question? Many answers can be found right here in our FAQs
-  link: /faqs
-
-- inverted: timeline-inverted
-  img: booklet-icon.png
-  name: Event Booklet
-  info: View or Download our event booklet
-  link: /booklet
