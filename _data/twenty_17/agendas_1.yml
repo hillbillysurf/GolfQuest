@@ -1,5 +1,14 @@
-- time: 8:00 AM - 12:00 PM
-  info: "<u>Title</u><br><b>Name</b><br><i>Position</i><br><br>Topic"
+- time: 9:00 AM - 10:00 PM
+  info: "<u>Calcutta</u><br>Each Team required to purchase 50% of their team for $100 ($50/player). The other 50% of each team will be auctioned off."
 
-- time: 12:00 PM - 3:00 PM
-  info: "<u>Title</u><br><b>Name</b><br><i>Position</i><br><br>Topic"
+- time: 10:00 PM - 12:30 PM
+  info: "<u>Best Ball</u><br>Each player plays their own ball to completion, taking the best score for the team score. Match play format, winner gets 2 points, in a tie each team gets 1 point."
+
+- time: 12:30 PM - 3:00 PM
+  info: "<u>Chapman</u><br>Every golfer hits a tee shot. Each plays their teammate's ball for 2nd shots.The best of the 2nd shot is selected, and from there the teammates play alternate shot into the hole."
+
+- time: 3:00 PM - 3:00 PM
+  info: "<u>Break</u><br>Break time at the clubhouse."
+
+- time: 3:30 PM - 6:00 PM
+  info: "<u>Scramble</u><br>Balls can be placed within one club length of ball, no closer to hole. Putts need to be made within 3 in. of ball mark, no closer to hole."
