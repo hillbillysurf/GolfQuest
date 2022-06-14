@@ -12,9 +12,9 @@
 
 - inverted: 
   img: icon-team.jpeg
-  name: Explorers
-  info: Meet us
-  link: /team
+  name: Teams
+  info: 2-man Teams
+  link: /teams
 
 - inverted: timeline-inverted
   img: icon-venue.jpeg
