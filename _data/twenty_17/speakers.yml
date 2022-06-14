@@ -1,16 +1,12 @@
-- title: Erik Wurtenberger
+- title: Erik
   name: Name-1
-  img: Erik.jpg
-  thumbnail: Erik.jpg
+  img: erik.jpg
+  thumbnail: erik.jpg
 
-- title: Name
+- title: Garret
   name: Name-2
-  subtitle: Position
-  img: TBD.jpg
-  thumbnail: TBD.jpg
-  alt: Picture of TBD
-  topic: Topic
-  description: More Info
+  img: garret.jpg
+  thumbnail: garret.jpg
 
 - title: Name
   name: Name-3
