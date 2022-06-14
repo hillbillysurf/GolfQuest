@@ -4,5 +4,18 @@ permalink: /team
 title: Team Member
 ---
 
-    {% include 2017_data/team_members.html %}
-    {% include 2017_data/team_members_info.html %}
+<table class="agenda">
+    <thead>
+        <tr>
+            <th class="row-1 agenda-time"><center>Time</center></th>
+            <th class="row-2 agenda-activity"><center>Activity</center></th>  
+        </tr>
+    </thead>
+
+    {% for agenda in site.data.twenty_17.agendas_1 %}
+        <tr>
+            <td>{{ agenda.time }}</td>
+            <td>{{ agenda.info }}</td>
+        </tr> 
+    {% endfor %}
+</table>
