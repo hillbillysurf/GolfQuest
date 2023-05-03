@@ -7,13 +7,13 @@
 - inverted: timeline-inverted
   img: icon-agenda.jpeg
   name: Agenda
-  info: Calcutta, Best Ball, Chapman, & Scramble
+  info: Calcutta, Scramble, Chapman, Three Ball
   link: /agenda
 
 - inverted: 
   img: icon-team.jpeg
   name: Results
-  info: 2-man Teams
+  info: 4-man Teams
   link: /teams
 
 - inverted: timeline-inverted
