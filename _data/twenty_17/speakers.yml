@@ -37,3 +37,23 @@
   name: Frimming
   img: frimming.jpg
   thumbnail: frimming.jpg
+
+- title: Brad
+  name: Brad
+  img: brad.jpg
+  thumbnail: brad.jpg
+
+- title: DeMoss
+  name: DeMoss
+  img: demoss.jpg
+  thumbnail: demoss.jpg
+
+- title: Foltz
+  name: Foltz
+  img: tbd.jpg
+  thumbnail: tbd.jpg
+
+- title: Pitts
+  name: Pitts
+  img: pitts.gif
+  thumbnail: pitts.gif
